@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="0.9.23" FormatVersion="1" MaterialHeight="0" MirrorX="False" MirrorY="True">
+    <Thumbnail Source="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"/>
+    <VariableText>
+        <Start Value="0"/>
+        <End Value="999"/>
+        <Current Value="0"/>
+        <Increment Value="1"/>
+        <AutoAdvance Value="0"/>
+    </VariableText>
+    <UIPrefs>
+        <Optimize_ByLayer Value="0"/>
+        <Optimize_ByGroup Value="-1"/>
+        <Optimize_ByPriority Value="1"/>
+        <Optimize_WhichDirection Value="0"/>
+        <Optimize_InnerToOuter Value="1"/>
+        <Optimize_ByDirection Value="0"/>
+        <Optimize_ReduceTravel Value="1"/>
+        <Optimize_HideBacklash Value="0"/>
+        <Optimize_ReduceDirChanges Value="0"/>
+        <Optimize_ChooseCorners Value="0"/>
+        <Optimize_AllowReverse Value="1"/>
+        <Optimize_RemoveOverlaps Value="0"/>
+        <Optimize_OptimalEntryPoint Value="1"/>
+    </UIPrefs>
+    <CutSetting type="Cut">
+        <index Value="2"/>
+        <name Value="C02"/>
+        <minPower Value="20"/>
+        <maxPower Value="100"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="0"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="3"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <Shape Type="Path" CutIndex="2" VertID="10">
+        <XForm>-4.37114e-8 1 -1 -4.37114e-8 188 -0.0249939</XForm>
+        <VertList>V298.47501 19.725006c0x1c1x1V298.47501 0.67500305c0x1c1x1V288.95001 0.67500305c0x1c1x1V288.95001 19.725006c0x1c1x1V19.075012 19.725006c0x1c1x1V19.075012 0.67500305c0x1c1x1V8.5499878 0.67500305c0x1c1x1V8.5499878 19.725006c0x1c1x1V0.024993896 19.725006c0x1c1x1V0.024993896 61.793999c0x1c1x1V8.5499878 61.793999c0x1c1x1V8.5499878 103.8625c0x1c1x1V0.024993896 103.8625c0x1c1x1V0.024993896 145.9313c0x1c1x1V8.5499878 145.9313c0x1c1x1V8.5499878 188c0x1c1x1V102.683 188c0x1c1x1V102.683 179.47501c0x1c1x1V205.34201 179.47501c0x1c1x1V205.34201 188c0x1c1x1V298.47501 188c0x1c1x1V298.47501 145.9313c0x1c1x1V308 145.9313c0x1c1x1V308 103.8625c0x1c1x1V298.47501 103.8625c0x1c1x1V298.47501 61.793999c0x1c1x1V308 61.793999c0x1c1x1V308 19.725006c0x1c1x1</VertList>
+        <PrimList>LineClosed</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="7" PrimID="0">
+        <XForm>-4.37114e-8 1 -1 -4.37114e-8 188 -0.0249939</XForm>
+        <VertList>V3.8529968 125.5036c0x1c1x1V2.9719849 125.5036c0x1c1x1V2.6990051 124.6651c0x1c1x1V3.4129944 124.1469c0x1c1x1V4.1260071 124.6651c0x1c1x1</VertList>
+        <PrimList>LineClosed</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="3" PrimID="0">
+        <XForm>-4.37114e-8 1 -1 -4.37114e-8 188 -0.0249939</XForm>
+        <VertList>V3.8529968 41.365997c0x1c1x1V2.9719849 41.365997c0x1c1x1V2.6990051 40.528c0x1c1x1V3.4129944 40.009003c0x1c1x1V4.1260071 40.528c0x1c1x1</VertList>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="1" PrimID="0">
+        <XForm>-4.37114e-8 1 -1 -4.37114e-8 188 -0.0249939</XForm>
+        <VertList>V51.960999 184.30334c0x1c1x1V51.122009 184.57579c0x1c1x1V50.604004 183.8625c0x1c1x1V51.122009 183.1492c0x1c1x1V51.960999 183.42166c0x1c1x1</VertList>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="0" PrimID="1">
+        <XForm>-4.37114e-8 1 -1 -4.37114e-8 188 -0.0249939</XForm>
+        <VertList>V165.94701 76.929001c0x1c1x1V165.425 79.383003c0x1c1x1V164.405 81.675003c0x1c1x1V162.92999 83.705002c0x1c1x1V161.06599 85.383003c0x1c1x1V158.89301 86.638c0x1c1x1V156.507 87.413002c0x1c1x1V154.013 87.675003c0x1c1x1V151.51801 87.413002c0x1c1x1V149.132 86.638c0x1c1x1V146.959 85.383003c0x1c1x1V145.095 83.705002c0x1c1x1V143.62 81.675003c0x1c1x1V142.60001 79.383003c0x1c1x1V142.078 76.929001c0x1c1x1V142.078 74.420998c0x1c1x1V142.60001 71.967003c0x1c1x1V143.62 69.675003c0x1c1x1V145.095 67.644997c0x1c1x1V146.959 65.967003c0x1c1x1V149.132 64.711998c0x1c1x1V151.51801 63.936996c0x1c1x1V154.013 63.675003c0x1c1x1V156.507 63.936996c0x1c1x1V158.89301 64.711998c0x1c1x1V161.06599 65.967003c0x1c1x1V162.92999 67.644997c0x1c1x1V164.405 69.675003c0x1c1x1V165.425 71.967003c0x1c1x1V165.94701 74.420998c0x1c1x1</VertList>
+        <PrimList>LineClosed</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="9" PrimID="0">
+        <XForm>-4.37114e-8 1 -1 -4.37114e-8 188 -0.0249939</XForm>
+        <VertList>V257.27759 184.30334c0x1c1x1V256.43909 184.57579c0x1c1x1V255.92081 183.8625c0x1c1x1V256.43909 183.1492c0x1c1x1V257.27759 183.42166c0x1c1x1</VertList>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="11" PrimID="0">
+        <XForm>-4.37114e-8 1 -1 -4.37114e-8 188 -0.0249939</XForm>
+        <VertList>V304.05334 125.5036c0x1c1x1V303.17166 125.5036c0x1c1x1V302.89923 124.6651c0x1c1x1V303.61249 124.1469c0x1c1x1V304.32581 124.6651c0x1c1x1</VertList>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="4" PrimID="0">
+        <XForm>-4.37114e-8 1 -1 -4.37114e-8 188 -0.0249939</XForm>
+        <VertList>V304.05334 41.365997c0x1c1x1V303.17166 41.365997c0x1c1x1V302.89923 40.528c0x1c1x1V303.61249 40.009003c0x1c1x1V304.32581 40.528c0x1c1x1</VertList>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="8">
+        <XForm>1.31134e-7 -1 1 1.31134e-7 209.662 308</XForm>
+        <VertList>V298.47501 19.725006c0x1c1x1V298.47501 0.67500305c0x1c1x1V8.5499878 0.67500305c0x1c1x1V8.5499878 19.725006c0x1c1x1V0.024993896 19.725006c0x1c1x1V0.024993896 61.793999c0x1c1x1V8.5499878 61.793999c0x1c1x1V8.5499878 103.8625c0x1c1x1V0.024993896 103.8625c0x1c1x1V0.024993896 145.9313c0x1c1x1V8.5499878 145.9313c0x1c1x1V8.5499878 188c0x1c1x1V102.683 188c0x1c1x1V102.683 179.47501c0x1c1x1V205.34201 179.47501c0x1c1x1V205.34201 188c0x1c1x1V298.47501 188c0x1c1x1V298.47501 145.9313c0x1c1x1V308 145.9313c0x1c1x1V308 103.8625c0x1c1x1V298.47501 103.8625c0x1c1x1V298.47501 61.793999c0x1c1x1V308 61.793999c0x1c1x1V308 19.725006c0x1c1x1</VertList>
+        <PrimList>LineClosed</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="7" PrimID="0">
+        <XForm>1.31134e-7 -1 1 1.31134e-7 209.662 308</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="3" PrimID="0">
+        <XForm>1.31134e-7 -1 1 1.31134e-7 209.662 308</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="1" PrimID="0">
+        <XForm>1.31134e-7 -1 1 1.31134e-7 209.662 308</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="6">
+        <XForm>1.31134e-7 -1 1 1.31134e-7 209.662 308</XForm>
+        <VertList>V201.565 21.126007c0x1c1x1V197.314 30.675003c0x1c1x1V191.17 39.132004c0x1c1x1V183.40201 46.126007c0x1c1x1V174.349 51.352005c0x1c1x1V164.408 54.582001c0x1c1x1V154.013 55.675003c0x1c1x1V143.617 54.582001c0x1c1x1V133.67599 51.352005c0x1c1x1V124.623 46.126007c0x1c1x1V116.855 39.132004c0x1c1x1V110.711 30.675003c0x1c1x1V106.46001 21.126007c0x1c1x1V106.364 20.675003c0x1c1x1V201.66101 20.675003c0x1c1x1</VertList>
+        <PrimList>LineClosed</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="0" PrimID="1">
+        <XForm>1.31134e-7 -1 1 1.31134e-7 209.662 308</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="5" PrimID="0">
+        <XForm>1.31134e-7 -1 1 1.31134e-7 209.662 308</XForm>
+        <VertList>V154.60001 95.484001c0x1c1x1V153.425 95.484001c0x1c1x1V153.061 94.365997c0x1c1x1V154.013 93.675003c0x1c1x1V154.964 94.365997c0x1c1x1</VertList>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="9" PrimID="0">
+        <XForm>1.31134e-7 -1 1 1.31134e-7 209.662 308</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="11" PrimID="0">
+        <XForm>1.31134e-7 -1 1 1.31134e-7 209.662 308</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="2" VertID="4" PrimID="0">
+        <XForm>1.31134e-7 -1 1 1.31134e-7 209.662 308</XForm>
+    </Shape>
+    <Notes ShowOnLoad="0" Notes=""/>
+</LightBurnProject>

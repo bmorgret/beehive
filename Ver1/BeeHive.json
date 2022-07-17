@@ -1,0 +1,269 @@
+{
+    "parameterSets": {
+       "MiniNucBottom": {
+            "Display": "Bottom",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+         "MiniNucSide": {
+            "Display": "Side",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "MiniNucOuterFront": {
+            "Display": "OuterFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "MiniNucInnerFront": {
+            "Display": "InnerFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "MiniNucOuterBack": {
+            "Display": "OuterBack",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "MiniNucInnerBack": {
+            "Display": "InnerBack",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "MiniNucCleats": {
+            "Display": "Cleats",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "MiniNucLid": {
+            "Display": "Lid",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "MiniNucLidTemplate": {
+            "Display": "LidTemplate",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "NucBottom": {
+            "Display": "Bottom",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "NucSide": {
+            "Display": "Side",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "NucOuterFront": {
+            "Display": "OuterFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "NucInnerFront": {
+            "Display": "InnerFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "NucOuterBack": {
+            "Display": "OuterBack",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "NucInnerBack": {
+            "Display": "InnerBack",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "NucLid": {
+            "Display": "Lid",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "NucCleats": {
+            "Display": "Cleats",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "NucLidTemplate": {
+            "Display": "LidTemplate",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "NucSuperSide": {
+            "Display": "Side",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Super"
+        },
+         "NucSuperOuterFrontBack": {
+            "Display": "OuterFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Super"
+        },
+        "NucSuperInnerFrontBack": {
+            "Display": "InnerFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Super"
+        },
+        "MiniFrameTops": {
+            "Display": "FrameTops",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "MiniFrameBottoms": {
+            "Display": "FrameBottoms",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        },
+        "design default values": {
+            "Display": "Hive",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1",
+            "Type": "Base"
+        }
+   },
+    "fileFormatVersion": "1"
+}

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="0.9.23" FormatVersion="1" MaterialHeight="0" MirrorX="False" MirrorY="True">
+    <Thumbnail Source="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"/>
+    <VariableText>
+        <Start Value="0"/>
+        <End Value="999"/>
+        <Current Value="0"/>
+        <Increment Value="1"/>
+        <AutoAdvance Value="0"/>
+    </VariableText>
+    <UIPrefs>
+        <Optimize_ByLayer Value="0"/>
+        <Optimize_ByGroup Value="-1"/>
+        <Optimize_ByPriority Value="1"/>
+        <Optimize_WhichDirection Value="0"/>
+        <Optimize_InnerToOuter Value="1"/>
+        <Optimize_ByDirection Value="0"/>
+        <Optimize_ReduceTravel Value="1"/>
+        <Optimize_HideBacklash Value="0"/>
+        <Optimize_ReduceDirChanges Value="0"/>
+        <Optimize_ChooseCorners Value="0"/>
+        <Optimize_AllowReverse Value="1"/>
+        <Optimize_RemoveOverlaps Value="0"/>
+        <Optimize_OptimalEntryPoint Value="1"/>
+    </UIPrefs>
+    <CutSetting type="Cut">
+        <index Value="2"/>
+        <name Value="C02"/>
+        <minPower Value="20"/>
+        <maxPower Value="100"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="150"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="0"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <Shape Type="Group">
+        <XForm>1 0 0 1 0 0</XForm>
+        <Children>
+            <Shape Type="Rect" CutIndex="2" W="99.735451" H="19.735453" Cr="0">
+                <XForm>1 0 0 1 50.1323 10.3968</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="2" W="99.735451" H="19.735453" Cr="0">
+                <XForm>1 0 0 1 50.1323 50.3968</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="2" W="99.735451" H="19.735453" Cr="0">
+                <XForm>1 0 0 1 50.1323 90.1323</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="2" W="99.735451" H="19.735453" Cr="0">
+                <XForm>1 0 0 1 50.1323 130.397</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="2" W="99.735451" H="19.735453" Cr="0">
+                <XForm>1 0 0 1 149.868 30.1323</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="2" W="99.735451" H="19.735453" Cr="0">
+                <XForm>1 0 0 1 150.132 70.1323</XForm>
+            </Shape>
+            <Shape Type="Rect" CutIndex="2" W="99.735451" H="19.735453" Cr="0">
+                <XForm>1 0 0 1 150.132 110.132</XForm>
+            </Shape>
+            <Shape Type="Path" CutIndex="2" VertID="0" PrimID="0">
+                <XForm>1 0 0 1 0 0</XForm>
+                <VertList>V100 140c0x1c1x1V200 140c0x1c1x1V200 120c0x1c1x1</VertList>
+                <PrimList>LineOpen</PrimList>
+            </Shape>
+            <Shape Type="Path" CutIndex="2" VertID="5" PrimID="1">
+                <XForm>1 0 0 1 0 0</XForm>
+                <VertList>V200 100c0x1c1x1V200 80c0x1c1x1</VertList>
+                <PrimList>LineOpen</PrimList>
+            </Shape>
+            <Shape Type="Path" CutIndex="2" VertID="2" PrimID="1">
+                <XForm>1 0 0 1 0 0</XForm>
+                <VertList>V0 120c0x1c1x1V0 100c0x1c1x1</VertList>
+            </Shape>
+            <Shape Type="Path" CutIndex="2" VertID="1" PrimID="1">
+                <XForm>1 0 0 1 0 0</XForm>
+                <VertList>V0 80c0x1c1x1V0 60c0x1c1x1</VertList>
+            </Shape>
+            <Shape Type="Path" CutIndex="2" VertID="4" PrimID="1">
+                <XForm>1 0 0 1 0 0</XForm>
+                <VertList>V0 40c0x1c1x1V0 20c0x1c1x1</VertList>
+            </Shape>
+            <Shape Type="Path" CutIndex="2" VertID="6" PrimID="1">
+                <XForm>1 0 0 1 0 0</XForm>
+                <VertList>V200 60c0x1c1x1V200 40c0x1c1x1</VertList>
+            </Shape>
+            <Shape Type="Path" CutIndex="2" VertID="3" PrimID="0">
+                <XForm>1 0 0 1 0 0</XForm>
+                <VertList>V200 20c0x1c1x1V200 0c0x1c1x1V100 0c0x1c1x1</VertList>
+            </Shape>
+        </Children>
+    </Shape>
+    <Notes ShowOnLoad="0" Notes=""/>
+</LightBurnProject>

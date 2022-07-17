@@ -1,0 +1,215 @@
+{
+    "parameterSets": {
+        "BaseBottom": {
+            "Display": "Bottom",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+    	 },
+        "BaseSide": {
+            "Display": "BaseSide",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "BaseOuterFront": {
+            "Display": "BaseOuterFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "BaseInnerFront": {
+            "Display": "BaseInnerFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "BaseOuterBack": {
+            "Display": "BaseOuterBack",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "BaseInnerBack": {
+            "Display": "BaseInnerBack",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "LidBottom": {
+            "Display": "Bottom",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+    	 },
+        "LidSide": {
+            "Display": "LidSide",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "LidOuterFront": {
+            "Display": "LidOuterFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "LidInnerFront": {
+            "Display": "LidInnerFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "LidOuterBack": {
+            "Display": "LidOuterBack",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "LidInnerBack": {
+            "Display": "LidInnerBack",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "LidPanel": {
+            "Display": "LidPanel",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "NucSuperSide": {
+            "Display": "Side",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+         "NucSuperOuterFront": {
+            "Display": "OuterFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "NucSuperInnerFront": {
+            "Display": "InnerFront",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+         "NucSuperOuterBack": {
+            "Display": "OuterBack",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "NucSuperInnerBack": {
+            "Display": "InnerBack",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "8",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "MiniFrameTops": {
+            "Display": "FrameTops",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "MiniFrameBottoms": {
+            "Display": "FrameBottoms",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        },
+        "design default values": {
+            "Display": "Hive",
+            "FrameLength": "9.5",
+            "HiveThickness": "0.375",
+            "NumCornerFJ": "4",
+            "NumFrames": "4",
+            "NumFrontBackFJ": "3",
+            "NumSideFJ": "5",
+            "Scale": "1"
+        }
+   },
+    "fileFormatVersion": "1"
+}

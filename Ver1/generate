@@ -1,0 +1,52 @@
+#!/bin/bash
+openscad -o ./temp.svg -p BeeHive.json -P MiniNucBottom ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./mininuc/Bottom.svg
+openscad -o ./temp.svg -p BeeHive.json -P MiniNucSide ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./mininuc/Side.svg
+openscad -o ./temp.svg -p BeeHive.json -P MiniNucOuterFront ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./mininuc/OuterFront.svg
+openscad -o ./temp.svg -p BeeHive.json -P MiniNucInnerFront ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./mininuc/InnerFront.svg
+openscad -o ./temp.svg -p BeeHive.json -P MiniNucOuterBack ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./mininuc/OuterBack.svg
+openscad -o ./temp.svg -p BeeHive.json -P MiniNucInnerBack ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./mininuc/InnerBack.svg
+openscad -o ./temp.svg -p BeeHive.json -P MiniNucLid ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./mininuc/Lid.svg
+openscad -o ./temp.svg -p BeeHive.json -P MiniNucCleats ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./mininuc/Cleats.svg
+openscad -o ./temp.svg -p BeeHive.json -P MiniNucLidTemplate ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./mininuc/LidTemplate.svg
+
+openscad -o ./temp.svg -p BeeHive.json -P NucBottom ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nuc/Bottom.svg
+openscad -o ./temp.svg -p BeeHive.json -P NucSide ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nuc/Side.svg
+openscad -o ./temp.svg -p BeeHive.json -P NucOuterFront ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nuc/OuterFront.svg
+openscad -o ./temp.svg -p BeeHive.json -P NucInnerFront ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nuc/InnerFront.svg
+openscad -o ./temp.svg -p BeeHive.json -P NucOuterBack ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nuc/OuterBack.svg
+openscad -o ./temp.svg -p BeeHive.json -P NucInnerBack ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nuc/InnerBack.svg
+openscad -o ./temp.svg -p BeeHive.json -P NucLid ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nuc/Lid.svg
+openscad -o ./temp.svg -p BeeHive.json -P NucCleats ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nuc/Cleats.svg
+openscad -o ./temp.svg -p BeeHive.json -P NucLidTemplate ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nuc/LidTemplate.svg
+
+openscad -o ./temp.svg -p BeeHive.json -P NucSuperSide ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nucsuper/Side.svg
+openscad -o ./temp.svg -p BeeHive.json -P NucSuperOuterFrontBack ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nucsuper/OuterFrontBack.svg
+openscad -o ./temp.svg -p BeeHive.json -P NucSuperInnerFrontBack ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./nucsuper/InnerFrontBack.svg
+
+
+openscad -o ./temp.svg -p BeeHive.json -P MiniFrameTops ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./MiniFrameTops.svg
+openscad -o ./temp.svg -p BeeHive.json -P MiniFrameBottoms ./BeeHive.scad
+sed -f ./transform ./temp.svg > ./MiniFrameBottoms.svg
+
